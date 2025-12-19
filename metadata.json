@@ -1,0 +1,7 @@
+{
+  "name": "Asr Althkaa - English Learning Master",
+  "description": "A world-class English learning platform featuring real-time AI conversational tutoring, personalized curriculum, and immersive voice practice powered by Gemini 2.5 Native Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
